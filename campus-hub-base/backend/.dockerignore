@@ -1,0 +1,9 @@
+.gradle
+.git
+.gitignore
+.idea
+*.iml
+.vscode
+src
+Dockerfile*
+.dockerignore
